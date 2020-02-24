@@ -17,3 +17,10 @@ You can find more about me in the following links:
 [My Twitter](https://twitter.com/Alba_Roza)
 [My LinkedIn](https://www.linkedin.com/in/albaroza/)
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
