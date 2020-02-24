@@ -2,11 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Portfolio
+
+My name is Alba Roza and I'm Developer Relations and Codebase Steward at Foundation for Public Code.
 
 <br>
 
-{% include 02-image.md %}
+![Image of Yaktocat](https://pbs.twimg.com/profile_images/1047476142784110592/FRyWBC96_400x400.jpg)
 
 <br>
 
