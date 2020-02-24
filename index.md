@@ -12,5 +12,8 @@ My name is Alba Roza and I'm Developer Relations and Codebase Steward at Foundat
 
 <br>
 
-{% include 03-links.md %}
+You can find more about me in the following links:
+[My portfolio](https://bit.ly/AlbaRoza)
+[My Twitter](https://twitter.com/Alba_Roza)
+[My LinkedIn](https://www.linkedin.com/in/albaroza/)
 
